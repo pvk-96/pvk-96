@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Praneeth Varma Kopperla<br><br>I'm a developer passionate about learning and building cool stuff with code.<br><br> 🌱 Currently Learning<br>- Python for automation and AI<br>- Linux and system internals<br><br> 🛠️ Tech I Use<br>- HTML, CSS, JavaScript<br>- Python, C++<br>- Git & GitHub<br>- VS Code, Linux<br><br> 📫 Connect with Me<br>- [LinkedIn](www.linkedin.com/in/praneeth-varma-kopperla)<br>- [X.com](https://x.com/PraneethVarma_K)<br><br>Thanks for stopping by! 🚀<br>
+👋 Hello there! I'm Praneeth Varma Kopperla<br><br>I'm a developer passionate about learning and building cool stuff with code.<br><br> 🌱 Currently Learning<br>- Python for automation and AI<br>- Linux and system internals<br><br> 🛠️ Tech I Use<br>- HTML, CSS, JavaScript<br>- Python, C++<br>- Git & GitHub<br>- VS Code, Linux<br><br> 📫 Connect with Me<br>- [LinkedIn](www.linkedin.com/in/praneeth-varma-kopperla)<br>- [X.com](https://x.com/PraneethVarma_K)<br><br>Thanks for stopping by! 🚀<br>
 
 
 ## 🌐 Socials:
